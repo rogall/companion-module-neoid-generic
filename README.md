@@ -1,1 +1,2 @@
-# companion-module-neoid-generic
+# generic neoid
+See HELP.md and LICENSE
